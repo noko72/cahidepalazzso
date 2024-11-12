@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Nov 2024 13:55:09 at https://cahidepalazzo1453.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cahidepalazzo1453.com/ -O1 "C:\My Web Sites\cahide" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:55:26	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/en (from https://cahidepalazzo1453.com/)
+13:55:26	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/img/all/wallpaper.png (from https://cahidepalazzo1453.com/)
+13:55:47	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/cahide/cahidepalazzo1453.com/assets/front/img/all/en-flag.svg
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/no-foto-video-slider.mp4 (from https://cahidepalazzo1453.com/)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/mekan-tanitimi.mp4 (from https://cahidepalazzo1453.com/)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-1.mov (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-2.mov (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-3.mov (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-4.mov (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-5.mov (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/new-video-6.MOV (from https://cahidepalazzo1453.com/sanatci-performanslari)
+13:55:47	Error: 	"Not Found" (404) at link https://cahidepalazzo1453.com/assets/front/video/special-video.mp4 (from https://cahidepalazzo1453.com/once-kokla-sonra-tat)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 95 links scanned, 83 files written (72092216 bytes overall) [71420720 bytes received at 1879492 bytes/sec], 1040839 bytes transferred using HTTP compression in 37 files, ratio 30%, 7.9 requests per connection
+(11 errors, 1 warnings, 0 messages)

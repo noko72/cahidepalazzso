@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cahidepalazzo1453.com	TRUE	/	FALSE	1999999999	ci_session	3afd6cd78b96fc01ec40f773e8cecc3c14903b8b
+cahidepalazzo1453.com	TRUE	/	FALSE	1999999999	csrf_token	47f81d97123a510ca49546ad2b55fab4
+cahidepalazzo1453.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+
